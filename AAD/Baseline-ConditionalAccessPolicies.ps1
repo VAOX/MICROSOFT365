@@ -23,7 +23,8 @@
     FileName:    Baseline-ConditionalAccessPolicies.ps1
     Author:      Tony Pemberton
     Created:     May 2021
-    Updated:     
+    Revised:     
+    Version:     1.0
 #>
 ###################################################################################################
 
