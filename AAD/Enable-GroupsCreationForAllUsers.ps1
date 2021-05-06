@@ -10,9 +10,9 @@ Source of script:
 https://docs.microsoft.com/en-us/microsoft-365/admin/create-groups/manage-creation-of-groups?view=o365-worldwide
 .NOTES
     FileName:    Enable-GroupsCreationForAllUsers.ps1
-    Author:      Alex Fields, ITProMentor.com
-    Created:     February 2020
-    Revised:     April 2021
+    Author:      Tony Pemberton
+    Created:     May 2021
+    Revised:     
     
 #>
 ###################################################################################################
