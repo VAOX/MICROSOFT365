@@ -10,9 +10,9 @@ https://docs.microsoft.com/en-us/powershell/module/msonline/connect-msolservice?
 Source of script: https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-mfa-userstates
 .NOTES
     FileName:    Enable-MfaForLicensedUsers.ps1
-    Author:      Alex Fields, ITProMentor.com
-    Created:     02-01-2020
-	Revised:     02-01-2020
+    Author:      Tony Pemberton
+    Created:     May 2020
+    Revised:     
     Version:     1.0
     
 #>
