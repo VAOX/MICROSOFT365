@@ -11,7 +11,7 @@ Source of script: https://docs.microsoft.com/en-us/azure/active-directory/authen
 .NOTES
     FileName:    Disable-MfaForLicensedUsers.ps1
     Author:      Tony Pemberton
-    Created:     06-05-2021
+    Created:     May 2021
     Revised:     
     Version:     1.0
     
