@@ -13,6 +13,7 @@ https://docs.microsoft.com/en-us/microsoft-365/admin/create-groups/manage-creati
     Author:      Tony Pemberton
     Created:     May 2021
     Revised:     
+    Version:     1.0  
     
 #>
 ###################################################################################################
