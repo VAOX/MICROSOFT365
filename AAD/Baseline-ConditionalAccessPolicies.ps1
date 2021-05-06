@@ -21,9 +21,9 @@
     4. Reference: https://docs.microsoft.com/en-us/powershell/azure/active-directory/install-adv2?view=azureadps-2.0#installing-the-azure-ad-module
 .DETAILS
     FileName:    Baseline-ConditionalAccessPolicies.ps1
-    Author:      Alex Fields, ITProMentor.com
-    Created:     September 2020
-    Updated:     February 2021
+    Author:      Tony Pemberton
+    Created:     May 2021
+    Updated:     
 #>
 ###################################################################################################
 
